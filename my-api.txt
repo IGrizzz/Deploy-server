@@ -1,0 +1,5 @@
+https://syaipuddin.herokuapp.com/
+
+https://syaipuddin.herokuapp.com/user
+
+https://syaipuddin.herokuapp.com/logout
